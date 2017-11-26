@@ -1,0 +1,10 @@
+# basic options
+title: your awsome blog
+author: github user
+email: youremail@mail.com
+github username: colmanmartin
+
+
+# build settings
+markdown: kramdown
+theme: minima
